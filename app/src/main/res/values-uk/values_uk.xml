@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NumbersInfoApp</string>
+    <string name="get_the_fact">Отримати факт</string>
+    <string name="get_fact_about_random_number">Отримати факт про випадкове число</string>
+    <string name="enter_number">Введіть число</string>
+</resources>
